@@ -18,6 +18,27 @@ jobs:
           channel: 'stable'
       - run: flutter create --platforms=android --project-name noor_app .
       - run: flutter pub get
+      - name: Patch legacy geolocator_android build.gradle
+        run: |
+          python3 - <<'EOF'
+          import glob, pathlib
+          for path_str in glob.glob('/home/runner/.pub-cache/hosted/pub.dev/geolocator_android-*/android/build.gradle'):
+              p = pathlib.Path(path_str)
+              text = p.read_text(encoding='utf-8')
+              if 'compileSdkVersion' not in text:
+                  text = text.replace(
+                      'android {',
+                      'android {\n    compileSdkVersion 34',
+                      1
+                  )
+              text = text.replace('flutter.compileSdkVersion', '34')
+              text = text.replace('flutter.minSdkVersion', '21')
+              text = text.replace('flutter.targetSdkVersion', '34')
+              text = text.replace('flutter.versionCode', '1')
+              text = text.replace('flutter.versionName', '"1.0.0"')
+              p.write_text(text, encoding='utf-8')
+              print('Patched:', p)
+          EOF
       - run: flutter build apk --debug
       - uses: actions/upload-artifact@v4
         with:
