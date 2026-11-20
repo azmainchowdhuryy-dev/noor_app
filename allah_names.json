@@ -1,0 +1,798 @@
+{
+  "schema_version": 1,
+  "review_status": "verified from Sunan at-Tirmidhi / standard 99 Asma-ul-Husna compilation",
+  "items": [
+    {
+      "number": 1,
+      "arabic": "الرَّحْمَنُ",
+      "transliteration": "Ar-Rahman",
+      "bn": "পরম করুণাময়",
+      "en": "The Beneficent / The Most Gracious",
+      "verified": true
+    },
+    {
+      "number": 2,
+      "arabic": "الرَّحِيمُ",
+      "transliteration": "Ar-Raheem",
+      "bn": "অতিশয় দয়ালু",
+      "en": "The Merciful / The Most Merciful",
+      "verified": true
+    },
+    {
+      "number": 3,
+      "arabic": "الْمَلِكُ",
+      "transliteration": "Al-Malik",
+      "bn": "সর্বময় কর্তৃত্বের অধিকারী",
+      "en": "The King / The Sovereign Lord",
+      "verified": true
+    },
+    {
+      "number": 4,
+      "arabic": "الْقُدُّوسُ",
+      "transliteration": "Al-Quddus",
+      "bn": "নিষ্কলুষ, অতি পবিত্র",
+      "en": "The Most Holy / The Pure",
+      "verified": true
+    },
+    {
+      "number": 5,
+      "arabic": "السَّلاَمُ",
+      "transliteration": "As-Salam",
+      "bn": "শান্তি ও নিরাপত্তাদানকারী",
+      "en": "The Source of Peace",
+      "verified": true
+    },
+    {
+      "number": 6,
+      "arabic": "الْمُؤْمِنُ",
+      "transliteration": "Al-Mu'min",
+      "bn": "নিরাপত্তা ও ঈমানদানকারী",
+      "en": "The Guardian of Faith / The Granter of Security",
+      "verified": true
+    },
+    {
+      "number": 7,
+      "arabic": "الْمُهَيْمِنُ",
+      "transliteration": "Al-Muhaymin",
+      "bn": "পরিপূর্ণ রক্ষণাবেক্ষণকারী",
+      "en": "The Protector / The Guardian",
+      "verified": true
+    },
+    {
+      "number": 8,
+      "arabic": "الْعَزِيزُ",
+      "transliteration": "Al-Aziz",
+      "bn": "পরাক্রমশালী, অপরাজেয়",
+      "en": "The Almighty / The Mighty",
+      "verified": true
+    },
+    {
+      "number": 9,
+      "arabic": "الْجَبَّارُ",
+      "transliteration": "Al-Jabbar",
+      "bn": "অপ্রতিরোধ্য, মহাপ্রতাপশালী",
+      "en": "The Compeller / The Restorer",
+      "verified": true
+    },
+    {
+      "number": 10,
+      "arabic": "الْمُتَكَبِّرُ",
+      "transliteration": "Al-Mutakabbir",
+      "bn": "শ্রেষ্ঠত্ব ও গৌরবের অধিকারী",
+      "en": "The Supreme / The Majestic",
+      "verified": true
+    },
+    {
+      "number": 11,
+      "arabic": "الْخَالِقُ",
+      "transliteration": "Al-Khaliq",
+      "bn": "সৃষ্টিকর্তা",
+      "en": "The Creator",
+      "verified": true
+    },
+    {
+      "number": 12,
+      "arabic": "الْبَارِئُ",
+      "transliteration": "Al-Bari'",
+      "bn": "সঠিকভাবে সৃষ্টিকারী",
+      "en": "The Evolver / The Maker",
+      "verified": true
+    },
+    {
+      "number": 13,
+      "arabic": "الْمُصَوِّرُ",
+      "transliteration": "Al-Musawwir",
+      "bn": "আকৃতিদানকারী",
+      "en": "The Fashioner / The Bestower of Forms",
+      "verified": true
+    },
+    {
+      "number": 14,
+      "arabic": "الْغَفَّارُ",
+      "transliteration": "Al-Ghaffar",
+      "bn": "পরম ক্ষমাশীল",
+      "en": "The Constant Forgiver",
+      "verified": true
+    },
+    {
+      "number": 15,
+      "arabic": "الْقَهَّارُ",
+      "transliteration": "Al-Qahhar",
+      "bn": "সবকিছুর ওপর পূর্ণ নিয়ন্ত্রণকারী",
+      "en": "The All-Prevailing One / The Subduer",
+      "verified": true
+    },
+    {
+      "number": 16,
+      "arabic": "الْوَهَّابُ",
+      "transliteration": "Al-Wahhab",
+      "bn": "সর্বোত্তম দাতা",
+      "en": "The Supreme Bestower",
+      "verified": true
+    },
+    {
+      "number": 17,
+      "arabic": "الرَّزَّاقُ",
+      "transliteration": "Ar-Razzaq",
+      "bn": "রিজিকদাতা",
+      "en": "The Provider",
+      "verified": true
+    },
+    {
+      "number": 18,
+      "arabic": "الْفَتَّاحُ",
+      "transliteration": "Al-Fattah",
+      "bn": "বিজয়দানকারী, উন্মোচনকারী",
+      "en": "The Supreme Solver / The Opener",
+      "verified": true
+    },
+    {
+      "number": 19,
+      "arabic": "اَلْعَلِيْمُ",
+      "transliteration": "Al-'Alim",
+      "bn": "সর্বজ্ঞ",
+      "en": "The All-Knowing",
+      "verified": true
+    },
+    {
+      "number": 20,
+      "arabic": "الْقَابِضُ",
+      "transliteration": "Al-Qabid",
+      "bn": "সংকোচনকারী",
+      "en": "The Withholder / The Restrainer",
+      "verified": true
+    },
+    {
+      "number": 21,
+      "arabic": "الْبَاسِطُ",
+      "transliteration": "Al-Basit",
+      "bn": "প্রশস্তকারী",
+      "en": "The Extender / The Expander",
+      "verified": true
+    },
+    {
+      "number": 22,
+      "arabic": "الْخَافِضُ",
+      "transliteration": "Al-Khafid",
+      "bn": "অবনতকারী",
+      "en": "The Reducer / The Abaser",
+      "verified": true
+    },
+    {
+      "number": 23,
+      "arabic": "الرَّافِعُ",
+      "transliteration": "Ar-Rafi'",
+      "bn": "উন্নতকারী",
+      "en": "The Exalter",
+      "verified": true
+    },
+    {
+      "number": 24,
+      "arabic": "الْمُعِزُّ",
+      "transliteration": "Al-Mu'izz",
+      "bn": "সম্মানদানকারী",
+      "en": "The Honourer / The Bestower of Honor",
+      "verified": true
+    },
+    {
+      "number": 25,
+      "arabic": "المُذِلُّ",
+      "transliteration": "Al-Mudhill",
+      "bn": "অপমানকারী",
+      "en": "The Dishonourer / The Humiliator",
+      "verified": true
+    },
+    {
+      "number": 26,
+      "arabic": "السَّمِيعُ",
+      "transliteration": "As-Sami'",
+      "bn": "সর্বশ্রোতা",
+      "en": "The All-Hearing",
+      "verified": true
+    },
+    {
+      "number": 27,
+      "arabic": "الْبَصِيرُ",
+      "transliteration": "Al-Basir",
+      "bn": "সর্বদ্রষ্টা",
+      "en": "The All-Seeing",
+      "verified": true
+    },
+    {
+      "number": 28,
+      "arabic": "الْحَكَمُ",
+      "transliteration": "Al-Hakam",
+      "bn": "অতুলনীয় বিচারক",
+      "en": "The Impartial Judge",
+      "verified": true
+    },
+    {
+      "number": 29,
+      "arabic": "الْعَدْلُ",
+      "transliteration": "Al-'Adl",
+      "bn": "পরিপূর্ণ ন্যায়বিচারক",
+      "en": "The Utterly Just",
+      "verified": true
+    },
+    {
+      "number": 30,
+      "arabic": "اللَّطِيفُ",
+      "transliteration": "Al-Latif",
+      "bn": "অতি সূক্ষ্মদর্শী ও স্নেহশীল",
+      "en": "The Subtle One / The Most Gentle",
+      "verified": true
+    },
+    {
+      "number": 31,
+      "arabic": "الْخَبِيرُ",
+      "transliteration": "Al-Khabir",
+      "bn": "সর্ববিষয়ে অবহিত",
+      "en": "The All-Aware",
+      "verified": true
+    },
+    {
+      "number": 32,
+      "arabic": "الْحَلِيمُ",
+      "transliteration": "Al-Halim",
+      "bn": "অতি সহনশীল",
+      "en": "The Most Forbearing",
+      "verified": true
+    },
+    {
+      "number": 33,
+      "arabic": "الْعَظِيمُ",
+      "transliteration": "Al-'Azim",
+      "bn": "মহান, অতি মর্যাদাশীল",
+      "en": "The Magnificent / The Supreme",
+      "verified": true
+    },
+    {
+      "number": 34,
+      "arabic": "الْغَفُورُ",
+      "transliteration": "Al-Ghafur",
+      "bn": "অতি ক্ষমাশীল",
+      "en": "The Great Forgiver",
+      "verified": true
+    },
+    {
+      "number": 35,
+      "arabic": "الشَّكُورُ",
+      "transliteration": "Ash-Shakur",
+      "bn": "গুণগ্রাহী, প্রতিদানদানকারী",
+      "en": "The Most Appreciative",
+      "verified": true
+    },
+    {
+      "number": 36,
+      "arabic": "الْعَلِيُّ",
+      "transliteration": "Al-'Ali",
+      "bn": "সর্বোচ্চ মর্যাদাবান",
+      "en": "The Most High / The Exalted",
+      "verified": true
+    },
+    {
+      "number": 37,
+      "arabic": "الْكَبِيرُ",
+      "transliteration": "Al-Kabir",
+      "bn": "সর্বশ্রেষ্ঠ, অতি মহান",
+      "en": "The Most Great",
+      "verified": true
+    },
+    {
+      "number": 38,
+      "arabic": "الْحَفِيظُ",
+      "transliteration": "Al-Hafiz",
+      "bn": "সর্বরক্ষক",
+      "en": "The Preserver",
+      "verified": true
+    },
+    {
+      "number": 39,
+      "arabic": "المُقيِت",
+      "transliteration": "Al-Muqit",
+      "bn": "সবার জীবনোপকরণ দানকারী",
+      "en": "The Sustainer",
+      "verified": true
+    },
+    {
+      "number": 40,
+      "arabic": "الْحسِيبُ",
+      "transliteration": "Al-Hasib",
+      "bn": "হিসাব গ্রহণকারী",
+      "en": "The Reckoner",
+      "verified": true
+    },
+    {
+      "number": 41,
+      "arabic": "الْجَلِيلُ",
+      "transliteration": "Al-Jalil",
+      "bn": "পরম মর্যাদাবান",
+      "en": "The Majestic",
+      "verified": true
+    },
+    {
+      "number": 42,
+      "arabic": "الْكَرِيمُ",
+      "transliteration": "Al-Karim",
+      "bn": "মহা সম্মানিত ও দানশীল",
+      "en": "The Most Generous / The Bountiful",
+      "verified": true
+    },
+    {
+      "number": 43,
+      "arabic": "الرَّقِيبُ",
+      "transliteration": "Ar-Raqib",
+      "bn": "সদা পর্যবেক্ষণকারী",
+      "en": "The Watchful",
+      "verified": true
+    },
+    {
+      "number": 44,
+      "arabic": "الْمُجِيبُ",
+      "transliteration": "Al-Mujib",
+      "bn": "দোয়া কবুলকারী",
+      "en": "The Responsive One",
+      "verified": true
+    },
+    {
+      "number": 45,
+      "arabic": "الْوَاسِعُ",
+      "transliteration": "Al-Wasi'",
+      "bn": "সর্বব্যাপী, অসীম",
+      "en": "The All-Encompassing / The Boundless",
+      "verified": true
+    },
+    {
+      "number": 46,
+      "arabic": "الْحَكِيمُ",
+      "transliteration": "Al-Hakim",
+      "bn": "প্রজ্ঞাময়",
+      "en": "The All-Wise",
+      "verified": true
+    },
+    {
+      "number": 47,
+      "arabic": "الْوَدُودُ",
+      "transliteration": "Al-Wadud",
+      "bn": "প্রেমময়, অতি স্নেহশীল",
+      "en": "The Most Loving",
+      "verified": true
+    },
+    {
+      "number": 48,
+      "arabic": "الْمَجِيدُ",
+      "transliteration": "Al-Majid",
+      "bn": "গৌরবময় ও মহিমান্বিত",
+      "en": "The Glorious / The Most Honorable",
+      "verified": true
+    },
+    {
+      "number": 49,
+      "arabic": "الْبَاعِثُ",
+      "transliteration": "Al-Ba'ith",
+      "bn": "পুনরুত্থানকারী",
+      "en": "The Infuser of New Life / The Resurrector",
+      "verified": true
+    },
+    {
+      "number": 50,
+      "arabic": "الشَّهِيدُ",
+      "transliteration": "Ash-Shahid",
+      "bn": "সর্ববিষয়ে সাক্ষী",
+      "en": "The All-Observing Witness",
+      "verified": true
+    },
+    {
+      "number": 51,
+      "arabic": "الْحَقُّ",
+      "transliteration": "Al-Haqq",
+      "bn": "পরম সত্য",
+      "en": "The Absolute Truth",
+      "verified": true
+    },
+    {
+      "number": 52,
+      "arabic": "الْوَكِيلُ",
+      "transliteration": "Al-Wakil",
+      "bn": "কর্মবিধায়ক, তত্ত্বাবধায়ক",
+      "en": "The Trustee / The Disposer of Affairs",
+      "verified": true
+    },
+    {
+      "number": 53,
+      "arabic": "الْقَوِيُّ",
+      "transliteration": "Al-Qawiyy",
+      "bn": "সর্বশক্তিমান",
+      "en": "The All-Strong",
+      "verified": true
+    },
+    {
+      "number": 54,
+      "arabic": "الْمَتِينُ",
+      "transliteration": "Al-Matin",
+      "bn": "সুদৃঢ় শক্তির অধিকারী",
+      "en": "The Firm / The Steadfast",
+      "verified": true
+    },
+    {
+      "number": 55,
+      "arabic": "الْوَلِيُّ",
+      "transliteration": "Al-Waliyy",
+      "bn": "অভিভাবক ও সাহায্যকারী",
+      "en": "The Protecting Associate / The Friend",
+      "verified": true
+    },
+    {
+      "number": 56,
+      "arabic": "الْحَمِيدُ",
+      "transliteration": "Al-Hamid",
+      "bn": "সকল প্রশংসার অধিকারী",
+      "en": "The Praiseworthy",
+      "verified": true
+    },
+    {
+      "number": 57,
+      "arabic": "الْمُحْصِي",
+      "transliteration": "Al-Muhsi",
+      "bn": "সর্ববিষয় গণনাকারী",
+      "en": "The All-Enumerating / The Counter",
+      "verified": true
+    },
+    {
+      "number": 58,
+      "arabic": "الْمُبْدِئُ",
+      "transliteration": "Al-Mubdi'",
+      "bn": "প্রথমবার সৃষ্টিকারী",
+      "en": "The Originator / The Initiator",
+      "verified": true
+    },
+    {
+      "number": 59,
+      "arabic": "الْمُعِيدُ",
+      "transliteration": "Al-Mu'id",
+      "bn": "পুনরায় সৃষ্টিকারী",
+      "en": "The Restorer / The Reinstater",
+      "verified": true
+    },
+    {
+      "number": 60,
+      "arabic": "الْمُحْيِي",
+      "transliteration": "Al-Muhyi",
+      "bn": "জীবনদানকারী",
+      "en": "The Giver of Life",
+      "verified": true
+    },
+    {
+      "number": 61,
+      "arabic": "اَلْمُمِيتُ",
+      "transliteration": "Al-Mumit",
+      "bn": "মৃত্যুদানকারী",
+      "en": "The Bringer of Death",
+      "verified": true
+    },
+    {
+      "number": 62,
+      "arabic": "الْحَيُّ",
+      "transliteration": "Al-Hayy",
+      "bn": "চিরঞ্জীব",
+      "en": "The Ever-Living",
+      "verified": true
+    },
+    {
+      "number": 63,
+      "arabic": "الْقَيُّومُ",
+      "transliteration": "Al-Qayyum",
+      "bn": "চিরস্থায়ী ও সবকিছুর ধারক",
+      "en": "The Sustainer / The Self-Subsisting",
+      "verified": true
+    },
+    {
+      "number": 64,
+      "arabic": "الْوَاجِدُ",
+      "transliteration": "Al-Wajid",
+      "bn": "সবকিছুর অধিকারী, অমুখাপেক্ষী",
+      "en": "The Perceiver / The Finder",
+      "verified": true
+    },
+    {
+      "number": 65,
+      "arabic": "الْمَاجِدُ",
+      "transliteration": "Al-Majid",
+      "bn": "মর্যাদাবান ও মহান",
+      "en": "The Illustrious / The Magnificent",
+      "verified": true
+    },
+    {
+      "number": 66,
+      "arabic": "الْواحِدُ",
+      "transliteration": "Al-Wahid",
+      "bn": "এক ও অদ্বিতীয়",
+      "en": "The One",
+      "verified": true
+    },
+    {
+      "number": 67,
+      "arabic": "اَلاَحَدُ",
+      "transliteration": "Al-Ahad",
+      "bn": "একক",
+      "en": "The Unique / The Only One",
+      "verified": true
+    },
+    {
+      "number": 68,
+      "arabic": "الصَّمَدُ",
+      "transliteration": "As-Samad",
+      "bn": "অমুখাপেক্ষী, সকলের আশ্রয়স্থল",
+      "en": "The Eternal / The Satisfier of Needs",
+      "verified": true
+    },
+    {
+      "number": 69,
+      "arabic": "الْقَادِرُ",
+      "transliteration": "Al-Qadir",
+      "bn": "সর্বশক্তিমান",
+      "en": "The Capable / The Omnipotent",
+      "verified": true
+    },
+    {
+      "number": 70,
+      "arabic": "الْمُقْتَدِرُ",
+      "transliteration": "Al-Muqtadir",
+      "bn": "নিরঙ্কুশ ক্ষমতার অধিকারী",
+      "en": "The Omnipotent / The Creator of All Power",
+      "verified": true
+    },
+    {
+      "number": 71,
+      "arabic": "الْمُقَدِّمُ",
+      "transliteration": "Al-Muqaddim",
+      "bn": "অগ্রগামীকারী",
+      "en": "The Expediter / The Promoter",
+      "verified": true
+    },
+    {
+      "number": 72,
+      "arabic": "الْمُؤَخِّرُ",
+      "transliteration": "Al-Mu'akhkhir",
+      "bn": "পশ্চাৎগামীকারী",
+      "en": "The Delayer / The Retarder",
+      "verified": true
+    },
+    {
+      "number": 73,
+      "arabic": "الأوَّلُ",
+      "transliteration": "Al-Awwal",
+      "bn": "অনাদি, সর্বপ্রথম",
+      "en": "The First",
+      "verified": true
+    },
+    {
+      "number": 74,
+      "arabic": "الآخِرُ",
+      "transliteration": "Al-Akhir",
+      "bn": "অনন্ত, সর্বশেষ",
+      "en": "The Last",
+      "verified": true
+    },
+    {
+      "number": 75,
+      "arabic": "الظَّاهِرُ",
+      "transliteration": "Az-Zahir",
+      "bn": "প্রকাশ্য",
+      "en": "The Manifest",
+      "verified": true
+    },
+    {
+      "number": 76,
+      "arabic": "الْبَاطِنُ",
+      "transliteration": "Al-Batin",
+      "bn": "গুপ্ত ও অদৃশ্য",
+      "en": "The Hidden One / The Knower of the Hidden",
+      "verified": true
+    },
+    {
+      "number": 77,
+      "arabic": "الْوَالِي",
+      "transliteration": "Al-Wali",
+      "bn": "একচ্ছত্র অধিপতি",
+      "en": "The Governor / The Patron",
+      "verified": true
+    },
+    {
+      "number": 78,
+      "arabic": "الْمُتَعَالِي",
+      "transliteration": "Al-Muta'ali",
+      "bn": "সর্বোচ্চ মর্যাদায় আসীন",
+      "en": "The Self-Exalted",
+      "verified": true
+    },
+    {
+      "number": 79,
+      "arabic": "الْبَرُّ",
+      "transliteration": "Al-Barr",
+      "bn": "পরম কল্যাণময় ও অনুগ্রহশীল",
+      "en": "The Source of Goodness / The Kind Benefactor",
+      "verified": true
+    },
+    {
+      "number": 80,
+      "arabic": "التَّوَابُ",
+      "transliteration": "At-Tawwab",
+      "bn": "তওবা কবুলকারী",
+      "en": "The Ever-Pardoning / The Acceptor of Repentance",
+      "verified": true
+    },
+    {
+      "number": 81,
+      "arabic": "الْمُنْتَقِمُ",
+      "transliteration": "Al-Muntaqim",
+      "bn": "প্রতিশোধ গ্রহণকারী (ন্যায়বিচারক)",
+      "en": "The Avenger",
+      "verified": true
+    },
+    {
+      "number": 82,
+      "arabic": "العَفُوُّ",
+      "transliteration": "Al-'Afuww",
+      "bn": "পাপ মোচনকারী, ক্ষমাকারী",
+      "en": "The Pardoner",
+      "verified": true
+    },
+    {
+      "number": 83,
+      "arabic": "الرَّؤُوفُ",
+      "transliteration": "Ar-Ra'uf",
+      "bn": "অতি স্নেহশীল ও দয়ার্দ্র",
+      "en": "The Most Kind",
+      "verified": true
+    },
+    {
+      "number": 84,
+      "arabic": "مَالِكُ الْمُلْكِ",
+      "transliteration": "Malik-ul-Mulk",
+      "bn": "সর্বভৌম ক্ষমতার মালিক",
+      "en": "Master of the Kingdom / Owner of Dominion",
+      "verified": true
+    },
+    {
+      "number": 85,
+      "arabic": "ذُوالْجَلاَلِ وَالإكْرَامِ",
+      "transliteration": "Dhul-Jalali wal-Ikram",
+      "bn": "মহিমা ও মহানুভবতার অধিকারী",
+      "en": "Possessor of Glory and Honour",
+      "verified": true
+    },
+    {
+      "number": 86,
+      "arabic": "الْمُقْسِطُ",
+      "transliteration": "Al-Muqsit",
+      "bn": "ন্যায়পরায়ণ",
+      "en": "The Equitable / The Requiter",
+      "verified": true
+    },
+    {
+      "number": 87,
+      "arabic": "الْجَامِعُ",
+      "transliteration": "Al-Jami'",
+      "bn": "একত্রকারী",
+      "en": "The Gatherer / The Uniter",
+      "verified": true
+    },
+    {
+      "number": 88,
+      "arabic": "الْغَنِيُّ",
+      "transliteration": "Al-Ghaniyy",
+      "bn": "অভাবমুক্ত, ঐশ্বর্যশালী",
+      "en": "The Self-Sufficient / The Wealthy",
+      "verified": true
+    },
+    {
+      "number": 89,
+      "arabic": "الْمُغْنِي",
+      "transliteration": "Al-Mughni",
+      "bn": "অভাবমোচনকারী, সমৃদ্ধিদাতা",
+      "en": "The Enricher",
+      "verified": true
+    },
+    {
+      "number": 90,
+      "arabic": "اَلْمَانِعُ",
+      "transliteration": "Al-Mani'",
+      "bn": "প্রতিরোধকারী",
+      "en": "The Withholder / The Shielder",
+      "verified": true
+    },
+    {
+      "number": 91,
+      "arabic": "الضَّارَّ",
+      "transliteration": "Ad-Darr",
+      "bn": "ক্ষতির মালিক (পরীক্ষাকারী)",
+      "en": "The Distresser / The Creator of Harm",
+      "verified": true
+    },
+    {
+      "number": 92,
+      "arabic": "النَّافِعُ",
+      "transliteration": "An-Nafi'",
+      "bn": "কল্যাণ ও উপকারদানকারী",
+      "en": "The Propitious / The Benefactor",
+      "verified": true
+    },
+    {
+      "number": 93,
+      "arabic": "النُّورُ",
+      "transliteration": "An-Nur",
+      "bn": "জ্যোতির্ময়, আলোকদাতা",
+      "en": "The Light",
+      "verified": true
+    },
+    {
+      "number": 94,
+      "arabic": "الْهَادِي",
+      "transliteration": "Al-Hadi",
+      "bn": "পথপ্রদর্শক",
+      "en": "The Guide",
+      "verified": true
+    },
+    {
+      "number": 95,
+      "arabic": "الْبَدِيعُ",
+      "transliteration": "Al-Badi'",
+      "bn": "অতুলনীয় সৃষ্টিকর্তা",
+      "en": "The Incomparable Originator",
+      "verified": true
+    },
+    {
+      "number": 96,
+      "arabic": "اَلْبَاقِي",
+      "transliteration": "Al-Baqi",
+      "bn": "চিরস্থায়ী, অবিনশ্বর",
+      "en": "The Ever-Surviving / The Everlasting",
+      "verified": true
+    },
+    {
+      "number": 97,
+      "arabic": "الْوَارِثُ",
+      "transliteration": "Al-Warith",
+      "bn": "সর্বশেষ স্বত্বাধিকারী",
+      "en": "The Inheritor / The Heir",
+      "verified": true
+    },
+    {
+      "number": 98,
+      "arabic": "الرَّشِيدُ",
+      "transliteration": "Ar-Rashid",
+      "bn": "সঠিক পথনির্দেশক",
+      "en": "The Guide to the Right Path",
+      "verified": true
+    },
+    {
+      "number": 99,
+      "arabic": "الصَّبُورُ",
+      "transliteration": "As-Sabur",
+      "bn": "অত্যধিক ধৈর্যশীল",
+      "en": "The Patient / The Timeless",
+      "verified": true
+    }
+  ]
+}

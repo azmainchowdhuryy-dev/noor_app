@@ -1,0 +1,33 @@
+name: noor_app
+description: Islamic app - Sadaqah Jariyah
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2            # state management
+  shared_preferences: ^2.3.2  # ভাষা/থিম/বুকমার্ক সেভ রাখা
+
+  # --- ধাপ ২-এ নতুন ---
+  adhan: ^2.0.0+1             # নামাজের সময় হিসাব
+  hijri: ^3.0.0               # হিজরি তারিখ
+  geolocator: ^13.0.2         # ডিভাইসের লোকেশন
+  geocoding: ^3.0.0           # লোকেশনের নাম (শহর)
+  share_plus: ^10.1.4         # হাদিস শেয়ার
+
+  # পরের ধাপে যোগ হবে:
+  # flutter_compass (কিবলা), vibration, audioplayers, in_app_purchase
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/

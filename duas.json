@@ -1,0 +1,281 @@
+{
+  "schema_version": 1,
+  "review_status": "verified from Quran and Sahih Hadith (Bukhari, Muslim, Abu Dawud, Tirmidhi, Ibn Majah)",
+  "items": [
+    {
+      "id": "dua_001",
+      "category": "Daily Life",
+      "title": "ঘুম থেকে ওঠার দোয়া (Upon Waking Up)",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+      "transliteration": "Alhamdu lillahil-ladhi ahyana ba'da ma amatana wa ilayhin-nushur.",
+      "bn": "সকল প্রশংসা সেই আল্লাহর জন্য, যিনি আমাদেরকে মৃত্যু (নিদ্রা) দান করার পর পুনরায় জীবিত (জাগ্রত) করেছেন এবং তাঁরই নিকট আমাদের পুনরুত্থান হবে।",
+      "en": "All praise is for Allah who gave us life after having taken it from us and unto Him is the resurrection.",
+      "reference": "Sahih al-Bukhari 6312",
+      "verified": true
+    },
+    {
+      "id": "dua_002",
+      "category": "Daily Life",
+      "title": "ঘুমানোর আগের দোয়া (Before Sleeping)",
+      "arabic": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
+      "transliteration": "Bismika Allahumma amutu wa ahya.",
+      "bn": "হে আল্লাহ! আপনার নামেই আমি মৃত্যুবরণ করি (ঘুমাই) এবং আপনার নামেই জীবিত হই (জাগ্রত হই)।",
+      "en": "In Your name, O Allah, I die and I live.",
+      "reference": "Sahih al-Bukhari 6324",
+      "verified": true
+    },
+    {
+      "id": "dua_003",
+      "category": "Food & Drink",
+      "title": "খাওয়া শুরু করার দোয়া (Before Eating)",
+      "arabic": "بِسْمِ اللَّهِ",
+      "transliteration": "Bismillah.",
+      "bn": "আল্লাহর নামে (শুরু করছি)।",
+      "en": "In the name of Allah.",
+      "reference": "Sahih al-Bukhari 5376, Sahih Muslim 2022",
+      "verified": true
+    },
+    {
+      "id": "dua_004",
+      "category": "Food & Drink",
+      "title": "খাওয়ার শুরুতে বিসমিল্লাহ বলতে ভুলে গেলে (If One Forgets to Say Bismillah Before Eating)",
+      "arabic": "بِسْمِ اللَّهِ أَوَّلَهُ وَآخِرَهُ",
+      "transliteration": "Bismillahi awwalahu wa akhirahu.",
+      "bn": "এর শুরুতে এবং শেষে আল্লাহর নামে।",
+      "en": "In the name of Allah at the beginning and at the end of it.",
+      "reference": "Sunan Abi Dawud 3767, Jami' at-Tirmidhi 1858",
+      "verified": true
+    },
+    {
+      "id": "dua_005",
+      "category": "Food & Drink",
+      "title": "খাওয়া শেষ করার দোয়া (After Finishing a Meal)",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنِي هَذَا وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ",
+      "transliteration": "Alhamdu lillahil-ladhi at'amani hadha wa razaqanihi min ghayri hawlin minni wa la quwwah.",
+      "bn": "সকল প্রশংসা সেই আল্লাহর জন্য, যিনি আমাকে এই খাদ্য খাওয়ালেন এবং আমার কোনো প্রচেষ্টা ও শক্তি ছাড়াই আমাকে তা রিজিক হিসেবে দান করলেন।",
+      "en": "All praise is due to Allah who has given me this food to eat and provided it without any endeavor on my part or any power.",
+      "reference": "Sunan Abi Dawud 4023, Jami' at-Tirmidhi 3458",
+      "verified": true
+    },
+    {
+      "id": "dua_006",
+      "category": "Home & Travel",
+      "title": "টয়লেটে প্রবেশের দোয়া (Entering the Bathroom / Toilet)",
+      "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ",
+      "transliteration": "Allahumma inni a'udhu bika minal-khubuthi wal-khaba'ith.",
+      "bn": "হে আল্লাহ! আমি আপনার নিকট দুষ্ট পুরুষ ও নারী জিনদের অনিষ্ট থেকে আশ্রয় প্রার্থনা করছি।",
+      "en": "O Allah, I seek refuge with You from all evil and evil-doers (male and female devils).",
+      "reference": "Sahih al-Bukhari 142, Sahih Muslim 375",
+      "verified": true
+    },
+    {
+      "id": "dua_007",
+      "category": "Home & Travel",
+      "title": "টয়লেট থেকে বের হওয়ার দোয়া (Leaving the Bathroom / Toilet)",
+      "arabic": "غُفْرَانَكَ",
+      "transliteration": "Ghufranaka.",
+      "bn": "(হে আল্লাহ) আমি আপনার ক্ষমা প্রার্থনা করছি।",
+      "en": "I seek Your forgiveness.",
+      "reference": "Sunan Abi Dawud 30, Jami' at-Tirmidhi 7",
+      "verified": true
+    },
+    {
+      "id": "dua_008",
+      "category": "Home & Travel",
+      "title": "ঘর থেকে বের হওয়ার দোয়া (Leaving the Home)",
+      "arabic": "بِسْمِ اللَّهِ ، تَوَكَّلْتُ عَلَى اللَّهِ ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+      "transliteration": "Bismillahi, tawakkaltu 'alallahi, wa la hawla wa la quwwata illa billah.",
+      "bn": "আল্লাহর নামে (বের হচ্ছি), আমি আল্লাহর ওপর ভরসা করলাম। আর আল্লাহর সাহায্য ছাড়া (পাপ থেকে বিরত থাকার) কোনো উপায় এবং (সৎকাজ করার) কোনো শক্তি নেই।",
+      "en": "In the name of Allah, I place my trust in Allah, and there is no might nor power except with Allah.",
+      "reference": "Sunan Abi Dawud 5095, Jami' at-Tirmidhi 3426",
+      "verified": true
+    },
+    {
+      "id": "dua_009",
+      "category": "Home & Travel",
+      "title": "ঘরে প্রবেশের দোয়া (Entering the Home)",
+      "arabic": "بِسْمِ اللَّهِ وَلَجْنَا، وَبِسْمِ اللَّهِ خَرَجْنَا، وَعَلَى اللَّهِ رَبِّنَا تَوَكَّلْنَا",
+      "transliteration": "Bismillahi walajna, wa bismillahi kharajna, wa 'alallahi Rabbina tawakkalna.",
+      "bn": "আল্লাহর নামে আমরা প্রবেশ করছি, আল্লাহর নামেই আমরা বের হয়েছিলাম এবং আমাদের রব আল্লাহর ওপরই আমরা ভরসা করছি।",
+      "en": "In the name of Allah we enter, in the name of Allah we leave, and upon our Lord we depend.",
+      "reference": "Sunan Abi Dawud 5096",
+      "verified": true
+    },
+    {
+      "id": "dua_010",
+      "category": "Home & Travel",
+      "title": "যানবাহনে আরোহণ ও সফরের দোয়া (Riding a Vehicle / Traveling)",
+      "arabic": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ",
+      "transliteration": "Subhanal-ladhi sakhkhara lana hadha wa ma kunna lahu muqrinin, wa inna ila Rabbina lamunqalibun.",
+      "bn": "পবিত্র ও মহান সেই সত্তা, যিনি আমাদের জন্য একে বশীভূত করে দিয়েছেন, অথচ আমরা একে বশীভূত করতে সক্ষম ছিলাম না। আর নিশ্চয়ই আমরা আমাদের রবের নিকট প্রত্যাবর্তনকারী।",
+      "en": "Glory be to Him who has subjected this to us, and we could never have it (by our efforts). And verily, to Our Lord we indeed are to return.",
+      "reference": "Surah Az-Zukhruf 43:13-14, Sahih Muslim 1342",
+      "verified": true
+    },
+    {
+      "id": "dua_011",
+      "category": "Mosque & Prayer",
+      "title": "মসজিদে প্রবেশের দোয়া (Entering the Mosque)",
+      "arabic": "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+      "transliteration": "Allahummaf-tah li abwaba rahmatik.",
+      "bn": "হে আল্লাহ! আমার জন্য আপনার রহমতের দরজাসমূহ খুলে দিন।",
+      "en": "O Allah, open the gates of Your mercy for me.",
+      "reference": "Sahih Muslim 713",
+      "verified": true
+    },
+    {
+      "id": "dua_012",
+      "category": "Mosque & Prayer",
+      "title": "মসজিদ থেকে বের হওয়ার দোয়া (Leaving the Mosque)",
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
+      "transliteration": "Allahumma inni as'aluka min fadlik.",
+      "bn": "হে আল্লাহ! আমি আপনার নিকট আপনার অনুগ্রহ প্রার্থনা করছি।",
+      "en": "O Allah, I ask You from Your favor.",
+      "reference": "Sahih Muslim 713",
+      "verified": true
+    },
+    {
+      "id": "dua_013",
+      "category": "Forgiveness & Repentance",
+      "title": "সাইয়্যিদুল ইস্তিগফার (ক্ষমা প্রার্থনার শ্রেষ্ঠ দোয়া) (Sayyidul Istighfar (Master Supplication for Forgiveness))",
+      "arabic": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ لَكَ بِذَنْبِي فَاغْفِرْ لِي، فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+      "transliteration": "Allahumma Anta Rabbi la ilaha illa Anta, khalaqtani wa ana 'abduka, wa ana 'ala 'ahdika wa wa'dika mastata'tu, a'udhu bika min sharri ma sana'tu, abu'u laka bini'matika 'alayya, wa abu'u laka bidhanbi faghfir li, fa'innahu la yaghfirudh-dhunuba illa Anta.",
+      "bn": "হে আল্লাহ! আপনি আমার রব, আপনি ছাড়া কোনো সত্য উপাস্য নেই। আপনি আমাকে সৃষ্টি করেছেন এবং আমি আপনার বান্দা। আমি আমার সাধ্যানুযায়ী আপনার অঙ্গীকার ও প্রতিশ্রুতির ওপর অটল আছি। আমি আমার কৃতকর্মের অনিষ্ট থেকে আপনার আশ্রয় চাই। আমার প্রতি আপনার অনুগ্রহ স্বীকার করছি এবং আমার গুনাহও স্বীকার করছি। অতএব আপনি আমাকে ক্ষমা করুন; নিশ্চয়ই আপনি ছাড়া গুনাহ ক্ষমা করার আর কেউ নেই।",
+      "en": "O Allah, You are my Lord, there is none worthy of worship except You. You created me and I am Your slave, and I am upon Your covenant and promise as best I can. I seek refuge in You from the evil of what I have done. I acknowledge Your favor upon me and I acknowledge my sin, so forgive me, for verily none can forgive sins except You.",
+      "reference": "Sahih al-Bukhari 6306",
+      "verified": true
+    },
+    {
+      "id": "dua_014",
+      "category": "Comprehensive Quranic Duas",
+      "title": "দুনিয়া ও আখিরাতের কল্যাণের দোয়া (Good in This World and the Hereafter (Rabbana Atina))",
+      "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+      "transliteration": "Rabbana atina fid-dunya hasanatan wa fil-akhirati hasanatan wa qina 'adhaban-nar.",
+      "bn": "হে আমাদের রব! আমাদেরকে দুনিয়াতে কল্যাণ দান করুন এবং আখিরাতেও কল্যাণ দান করুন; আর আমাদেরকে জাহান্নামের আজাব থেকে রক্ষা করুন।",
+      "en": "Our Lord, give us in this world [that which is] good and in the Hereafter [that which is] good and protect us from the punishment of the Fire.",
+      "reference": "Surah Al-Baqarah 2:201",
+      "verified": true
+    },
+    {
+      "id": "dua_015",
+      "category": "Parents & Family",
+      "title": "পিতা-মাতার জন্য দোয়া (Dua for Parents)",
+      "arabic": "رَّبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا",
+      "transliteration": "Rabbir-hamhuma kama rabbayani saghira.",
+      "bn": "হে আমার রব! তাদের উভয়ের প্রতি রহম করুন, যেমন তারা আমাকে শৈশবে লালন-পালন করেছেন।",
+      "en": "My Lord, have mercy upon them as they brought me up [when I was] small.",
+      "reference": "Surah Al-Isra 17:24",
+      "verified": true
+    },
+    {
+      "id": "dua_016",
+      "category": "Parents & Family",
+      "title": "নেককার জীবনসঙ্গী ও সন্তানের জন্য দোয়া (Dua for Righteous Spouse and Children)",
+      "arabic": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+      "transliteration": "Rabbana hab lana min azwajina wa dhurriyyatina qurrata a'yunin waj'alna lil-muttaqina imama.",
+      "bn": "হে আমাদের রব! আমাদের স্ত্রীদের ও আমাদের সন্তানদের পক্ষ থেকে আমাদের জন্য চোখ শীতলকারী দান করুন এবং আমাদেরকে মুত্তাকীদের জন্য আদর্শ বানিয়ে দিন।",
+      "en": "Our Lord, grant us from among our wives and offspring comfort to our eyes and make us an example for the righteous.",
+      "reference": "Surah Al-Furqan 25:74",
+      "verified": true
+    },
+    {
+      "id": "dua_017",
+      "category": "Knowledge & Guidance",
+      "title": "জ্ঞান বৃদ্ধির দোয়া (Dua for Increase in Knowledge)",
+      "arabic": "رَّبِّ زِدْنِي عِلْمًا",
+      "transliteration": "Rabbi zidni 'ilma.",
+      "bn": "হে আমার রব! আমার জ্ঞান বৃদ্ধি করে দিন।",
+      "en": "My Lord, increase me in knowledge.",
+      "reference": "Surah Ta-Ha 20:114",
+      "verified": true
+    },
+    {
+      "id": "dua_018",
+      "category": "Knowledge & Guidance",
+      "title": "হিদায়াত, তাকওয়া, পবিত্রতা ও সচ্ছলতার দোয়া (Dua for Guidance, Piety, Chastity, and Self-Sufficiency)",
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْهُدَى وَالتُّقَى وَالْعَفَافَ وَالْغِنَى",
+      "transliteration": "Allahumma inni as'alukal-huda wat-tuqa wal-'afafa wal-ghina.",
+      "bn": "হে আল্লাহ! আমি আপনার নিকট হিদায়াত, তাকওয়া (আল্লাহভীতি), চারিত্রিক পবিত্রতা এবং সচ্ছলতা প্রার্থনা করছি।",
+      "en": "O Allah, I ask You for guidance, piety, chastity (self-restraint) and self-sufficiency.",
+      "reference": "Sahih Muslim 2721",
+      "verified": true
+    },
+    {
+      "id": "dua_019",
+      "category": "Distress & Anxiety",
+      "title": "বিপদ ও দুশ্চিন্তা থেকে মুক্তির দোয়া (দোয়ায়ে ইউনুস) (Dua of Prophet Yunus (AS) in Distress)",
+      "arabic": "لَا إِلَهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ",
+      "transliteration": "La ilaha illa Anta subhanaka inni kuntu minaz-zalimin.",
+      "bn": "আপনি ব্যতীত কোনো সত্য উপাস্য নেই, আপনি অতি পবিত্র ও মহান; নিশ্চয়ই আমি জালিমদের অন্তর্ভুক্ত ছিলাম।",
+      "en": "There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.",
+      "reference": "Surah Al-Anbiya 21:87, Jami' at-Tirmidhi 3505",
+      "verified": true
+    },
+    {
+      "id": "dua_020",
+      "category": "Distress & Anxiety",
+      "title": "দুশ্চিন্তা, পেরেশানি, ঋণ ও পরাজয় থেকে আশ্রয়ের দোয়া (Seeking Refuge from Anxiety, Sorrow, Debt, and Oppression)",
+      "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ، وَالْعَجْزِ وَالْكَسَلِ، وَالْبُخْلِ وَالْجُبْنِ، وَضَلَعِ الدَّيْنِ، وَغَلَبَةِ الرِّجَالِ",
+      "transliteration": "Allahumma inni a'udhu bika minal-hammi wal-hazan, wal-'ajzi wal-kasal, wal-bukhli wal-jubn, wa dala'id-dayni, wa ghalabatir-rijal.",
+      "bn": "হে আল্লাহ! আমি আপনার আশ্রয় প্রার্থনা করছি দুশ্চিন্তা ও দুঃখ-বেদনা থেকে, অক্ষমতা ও অলসতা থেকে, কৃপণতা ও ভীরুতা থেকে, ঋণের বোঝা ও মানুষের জবরদস্তি থেকে।",
+      "en": "O Allah, I seek refuge in You from anxiety and sorrow, weakness and laziness, miserliness and cowardice, the burden of debts and being overpowered by men.",
+      "reference": "Sahih al-Bukhari 6369",
+      "verified": true
+    },
+    {
+      "id": "dua_021",
+      "category": "Health & Protection",
+      "title": "সকাল-সন্ধ্যায় সব ধরনের অনিষ্ট থেকে নিরাপত্তার দোয়া (Morning & Evening Protection (Bismillahil-ladhi la yadurru))",
+      "arabic": "بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+      "transliteration": "Bismillahil-ladhi la yadurru ma'asmihi shay'un fil-ardi wa la fis-sama'i wa Huwas-Sami'ul-'Alim.",
+      "bn": "সেই আল্লাহর নামে (আশ্রয় চাই), যাঁর নামের বরকতে আসমান ও জমিনের কোনো কিছুই ক্ষতি করতে পারে না; আর তিনি সর্বশ্রোতা ও সর্বজ্ঞ। (সকাল ও সন্ধ্যায় ৩ বার পাঠ করতে হয়)",
+      "en": "In the name of Allah with whose name nothing is harmed on earth nor in the heavens, and He is The All-Hearing, The All-Knowing. (Recite 3 times)",
+      "reference": "Sunan Abi Dawud 5088, Jami' at-Tirmidhi 3388",
+      "verified": true
+    },
+    {
+      "id": "dua_022",
+      "category": "Health & Protection",
+      "title": "শরীর, শ্রবণশক্তি ও দৃষ্টিশক্তির সুস্থতার দোয়া (Dua for Well-Being in Body, Hearing, and Sight)",
+      "arabic": "اللَّهُمَّ عَافِنِي فِي بَدَنِي، اللَّهُمَّ عَافِنِي فِي سَمْعِي، اللَّهُمَّ عَافِنِي فِي بَصَرِي، لَا إِلَهَ إِلَّا أَنْتَ",
+      "transliteration": "Allahumma 'afini fi badani, Allahumma 'afini fi sam'i, Allahumma 'afini fi basari, la ilaha illa Anta.",
+      "bn": "হে আল্লাহ! আমাকে শারীরিক সুস্থতা দান করুন। হে আল্লাহ! আমার শ্রবণশক্তিকে সুস্থ রাখুন। হে আল্লাহ! আমার দৃষ্টিশক্তিকে সুস্থ রাখুন। আপনি ছাড়া কোনো সত্য উপাস্য নেই। (সকাল-সন্ধ্যায় ৩ বার)",
+      "en": "O Allah, grant my body health, O Allah, grant my hearing health, O Allah, grant my sight health. None has the right to be worshipped except You. (Recite 3 times)",
+      "reference": "Sunan Abi Dawud 5090",
+      "verified": true
+    },
+    {
+      "id": "dua_023",
+      "category": "Health & Protection",
+      "title": "রোগী দেখার ও আরোগ্য লাভের দোয়া (Visiting the Sick / Seeking Cure)",
+      "arabic": "اللَّهُمَّ رَبَّ النَّاسِ أَذْهِبِ الْبَاسَ، اشْفِهِ وَأَنْتَ الشَّافِي، لَا شِفَاءَ إِلَّا شِفَاؤُكَ، شِفَاءً لَا يُغَادِرُ سَقَمًا",
+      "transliteration": "Allahumma Rabban-nasi adhhibil-ba'sa, ishfihi wa Antash-Shafi, la shifa'a illa shifa'uka, shifa'an la yughadiru saqama.",
+      "bn": "হে আল্লাহ! মানুষের রব, রোগ-কষ্ট দূর করে দিন এবং আরোগ্য দান করুন; আপনিই আরোগ্যদানকারী। আপনার আরোগ্য ছাড়া কোনো আরোগ্য নেই—এমন আরোগ্য দান করুন, যা কোনো রোগ অবশিষ্ট রাখে না।",
+      "en": "O Allah, Lord of mankind, remove the affliction and heal, for You are the Healer. There is no healing except Your healing, a healing that leaves behind no ailment.",
+      "reference": "Sahih al-Bukhari 5743, Sahih Muslim 2191",
+      "verified": true
+    },
+    {
+      "id": "dua_024",
+      "category": "Steadfastness & Heart",
+      "title": "দ্বীনের ওপর অন্তর অবিচল রাখার দোয়া (Dua for Steadfastness of the Heart)",
+      "arabic": "يَا مُقَلِّبَ الْقُلُوبِ ثَبِّتْ قَلْبِي عَلَى دِينِكَ",
+      "transliteration": "Ya Muqallibal-qulubi thabbit qalbi 'ala dinik.",
+      "bn": "হে অন্তরসমূহের পরিবর্তনকারী! আমার অন্তরকে আপনার দ্বীনের ওপর অবিচল রাখুন।",
+      "en": "O Turner of the hearts, keep my heart firm upon Your religion.",
+      "reference": "Jami' at-Tirmidhi 2140",
+      "verified": true
+    },
+    {
+      "id": "dua_025",
+      "category": "Laylatul Qadr & Forgiveness",
+      "title": "শবে কদর ও ক্ষমা লাভের বিশেষ দোয়া (Dua for Laylatul Qadr (Night of Decree))",
+      "arabic": "اللَّهُمَّ إِنَّكَ عَفُوٌّ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي",
+      "transliteration": "Allahumma innaka 'Afuwwun tuhibbul-'afwa fa'fu 'anni.",
+      "bn": "হে আল্লাহ! নিশ্চয়ই আপনি ক্ষমাশীল, ক্ষমা করতে ভালোবাসেন; অতএব আমাকে ক্ষমা করে দিন।",
+      "en": "O Allah, You are Pardoning and love to pardon, so pardon me.",
+      "reference": "Jami' at-Tirmidhi 3513, Sunan Ibn Majah 3850",
+      "verified": true
+    }
+  ]
+}
